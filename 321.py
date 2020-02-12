@@ -50,6 +50,9 @@ class Solution(object):
         # leetcode submit region end(Prohibit modification and deletion)
         if not nums:
             return False
+            print("5sddVa"
+                  ".b"
+                  "'v")
         for i in range(len(nums) - 1, 0, -1):
             if nums[i] == nums[i - 1]:
                 nums.pop(i)
